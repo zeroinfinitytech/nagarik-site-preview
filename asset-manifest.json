@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/nagarik-site-preview/static/css/main.3e45e821.css",
-    "main.js": "/nagarik-site-preview/static/js/main.3b2fc41d.js",
-    "static/css/588.5b99736a.chunk.css": "/nagarik-site-preview/static/css/588.5b99736a.chunk.css",
-    "static/js/588.46abdaa1.chunk.js": "/nagarik-site-preview/static/js/588.46abdaa1.chunk.js",
+    "main.css": "/nagarik-site-preview/static/css/main.1965c675.css",
+    "main.js": "/nagarik-site-preview/static/js/main.d6a706dc.js",
+    "static/css/588.9d5c334f.chunk.css": "/nagarik-site-preview/static/css/588.9d5c334f.chunk.css",
+    "static/js/588.3ee2727a.chunk.js": "/nagarik-site-preview/static/js/588.3ee2727a.chunk.js",
     "static/js/597.9ad98ab0.chunk.js": "/nagarik-site-preview/static/js/597.9ad98ab0.chunk.js",
     "static/css/550.cf29322e.chunk.css": "/nagarik-site-preview/static/css/550.cf29322e.chunk.css",
     "static/js/550.37613897.chunk.js": "/nagarik-site-preview/static/js/550.37613897.chunk.js",
@@ -29,7 +29,7 @@
     "index.html": "/nagarik-site-preview/index.html"
   },
   "entrypoints": [
-    "static/css/main.3e45e821.css",
-    "static/js/main.3b2fc41d.js"
+    "static/css/main.1965c675.css",
+    "static/js/main.d6a706dc.js"
   ]
 }
