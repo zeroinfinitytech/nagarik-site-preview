@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /search
+
+# Set YOUR real domain here before deploying
+Sitemap: https://YOUR-DOMAIN/sitemap.xml
