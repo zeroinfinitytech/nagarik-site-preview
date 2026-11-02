@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nagarik-site-preview/static/css/main.35b92d2a.css",
-    "main.js": "/nagarik-site-preview/static/js/main.cbf5fd74.js",
+    "main.css": "/nagarik-site-preview/static/css/main.176ccb3a.css",
+    "main.js": "/nagarik-site-preview/static/js/main.a62a3ff2.js",
     "static/css/588.ff5e80b5.chunk.css": "/nagarik-site-preview/static/css/588.ff5e80b5.chunk.css",
     "static/js/588.bc47fafe.chunk.js": "/nagarik-site-preview/static/js/588.bc47fafe.chunk.js",
     "static/js/597.e059b142.chunk.js": "/nagarik-site-preview/static/js/597.e059b142.chunk.js",
@@ -22,7 +22,7 @@
     "static/js/118.5b8529ec.chunk.js": "/nagarik-site-preview/static/js/118.5b8529ec.chunk.js",
     "static/css/289.8f835b99.chunk.css": "/nagarik-site-preview/static/css/289.8f835b99.chunk.css",
     "static/js/289.ddb76cb5.chunk.js": "/nagarik-site-preview/static/js/289.ddb76cb5.chunk.js",
-    "static/js/637.d9f0c102.chunk.js": "/nagarik-site-preview/static/js/637.d9f0c102.chunk.js",
+    "static/js/637.c919f121.chunk.js": "/nagarik-site-preview/static/js/637.c919f121.chunk.js",
     "static/css/22.03d45c6a.chunk.css": "/nagarik-site-preview/static/css/22.03d45c6a.chunk.css",
     "static/css/27.0921f19d.chunk.css": "/nagarik-site-preview/static/css/27.0921f19d.chunk.css",
     "static/media/nagarik-jagaran-media-seal.png": "/nagarik-site-preview/static/media/nagarik-jagaran-media-seal.b42045195e0485280a32.png",
@@ -30,7 +30,7 @@
     "index.html": "/nagarik-site-preview/index.html"
   },
   "entrypoints": [
-    "static/css/main.35b92d2a.css",
-    "static/js/main.cbf5fd74.js"
+    "static/css/main.176ccb3a.css",
+    "static/js/main.a62a3ff2.js"
   ]
 }
